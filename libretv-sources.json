@@ -1,0 +1,10 @@
+{
+  "name": "buddy 实测可用点播源（2026-10-13 实测）",
+  "version": 2,
+  "sources": [
+    { "name": "非凡影视", "url": "https://ffzy5.tv/api.php/provide/vod" },
+    { "name": "360资源", "url": "https://360zy.com/api.php/provide/vod" },
+    { "name": "360资源备用域名", "url": "https://360zy.net/api.php/provide/vod" },
+    { "name": "爱奇艺资源站", "url": "https://iqiyizyapi.com/api.php/provide/vod" }
+  ]
+}
