@@ -1,5 +1,5 @@
 {
-  "name": "buddy 实测可用点播源（2026-10-18 复测 · 14 源）",
+  "name": "buddy 实测可用点播源（自动体检维护）",
   "version": 2,
   "sources": [
     {
@@ -57,6 +57,10 @@
     {
       "name": "百度资源",
       "url": "https://api.apibdzy.com/api.php/provide/vod"
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
     }
   ]
 }
