@@ -31,10 +31,6 @@
       "url": "https://bfzyapi.com/api.php/provide/vod"
     },
     {
-      "name": "爱奇艺资源站",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod"
-    },
-    {
       "name": "360资源",
       "url": "https://360zy.com/api.php/provide/vod"
     },
@@ -61,6 +57,10 @@
     {
       "name": "极速资源",
       "url": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/json"
     }
   ]
 }
